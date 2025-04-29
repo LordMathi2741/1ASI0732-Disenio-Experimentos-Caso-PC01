@@ -1,0 +1,15 @@
+/Users/lordmathi2741/Documents/Cursos/Experimentos/Practica-PC01-Experimentos/Practica-PC01-Experimentos/bin/Debug/net8.0/Practica-PC01-Experimentos
+/Users/lordmathi2741/Documents/Cursos/Experimentos/Practica-PC01-Experimentos/Practica-PC01-Experimentos/bin/Debug/net8.0/Practica-PC01-Experimentos.deps.json
+/Users/lordmathi2741/Documents/Cursos/Experimentos/Practica-PC01-Experimentos/Practica-PC01-Experimentos/bin/Debug/net8.0/Practica-PC01-Experimentos.runtimeconfig.json
+/Users/lordmathi2741/Documents/Cursos/Experimentos/Practica-PC01-Experimentos/Practica-PC01-Experimentos/bin/Debug/net8.0/Practica-PC01-Experimentos.dll
+/Users/lordmathi2741/Documents/Cursos/Experimentos/Practica-PC01-Experimentos/Practica-PC01-Experimentos/bin/Debug/net8.0/Practica-PC01-Experimentos.pdb
+/Users/lordmathi2741/Documents/Cursos/Experimentos/Practica-PC01-Experimentos/Practica-PC01-Experimentos/obj/Debug/net8.0/Practica-PC01-Experimentos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lordmathi2741/Documents/Cursos/Experimentos/Practica-PC01-Experimentos/Practica-PC01-Experimentos/obj/Debug/net8.0/Practica-PC01-Experimentos.AssemblyInfoInputs.cache
+/Users/lordmathi2741/Documents/Cursos/Experimentos/Practica-PC01-Experimentos/Practica-PC01-Experimentos/obj/Debug/net8.0/Practica-PC01-Experimentos.AssemblyInfo.cs
+/Users/lordmathi2741/Documents/Cursos/Experimentos/Practica-PC01-Experimentos/Practica-PC01-Experimentos/obj/Debug/net8.0/Practica-PC01-Experimentos.csproj.CoreCompileInputs.cache
+/Users/lordmathi2741/Documents/Cursos/Experimentos/Practica-PC01-Experimentos/Practica-PC01-Experimentos/obj/Debug/net8.0/Practica-PC01-Experimentos.sourcelink.json
+/Users/lordmathi2741/Documents/Cursos/Experimentos/Practica-PC01-Experimentos/Practica-PC01-Experimentos/obj/Debug/net8.0/Practica-PC01-Experimentos.dll
+/Users/lordmathi2741/Documents/Cursos/Experimentos/Practica-PC01-Experimentos/Practica-PC01-Experimentos/obj/Debug/net8.0/refint/Practica-PC01-Experimentos.dll
+/Users/lordmathi2741/Documents/Cursos/Experimentos/Practica-PC01-Experimentos/Practica-PC01-Experimentos/obj/Debug/net8.0/Practica-PC01-Experimentos.pdb
+/Users/lordmathi2741/Documents/Cursos/Experimentos/Practica-PC01-Experimentos/Practica-PC01-Experimentos/obj/Debug/net8.0/Practica-PC01-Experimentos.genruntimeconfig.cache
+/Users/lordmathi2741/Documents/Cursos/Experimentos/Practica-PC01-Experimentos/Practica-PC01-Experimentos/obj/Debug/net8.0/ref/Practica-PC01-Experimentos.dll
