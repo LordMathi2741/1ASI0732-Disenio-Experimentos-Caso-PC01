@@ -103,3 +103,8 @@
 /Users/lordmathi2741/Documents/Cursos/Experimentos/Practica-PC01-Experimentos/UnitTests/obj/Debug/net8.0/UnitTests.pdb
 /Users/lordmathi2741/Documents/Cursos/Experimentos/Practica-PC01-Experimentos/UnitTests/obj/Debug/net8.0/UnitTests.genruntimeconfig.cache
 /Users/lordmathi2741/Documents/Cursos/Experimentos/Practica-PC01-Experimentos/UnitTests/obj/Debug/net8.0/ref/UnitTests.dll
+/Users/lordmathi2741/Documents/Cursos/Experimentos/Practica-PC01-Experimentos/UnitTests/bin/Debug/net8.0/Castle.Core.dll
+/Users/lordmathi2741/Documents/Cursos/Experimentos/Practica-PC01-Experimentos/UnitTests/bin/Debug/net8.0/Moq.dll
+/Users/lordmathi2741/Documents/Cursos/Experimentos/Practica-PC01-Experimentos/UnitTests/bin/Debug/net8.0/System.Diagnostics.EventLog.dll
+/Users/lordmathi2741/Documents/Cursos/Experimentos/Practica-PC01-Experimentos/UnitTests/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll
+/Users/lordmathi2741/Documents/Cursos/Experimentos/Practica-PC01-Experimentos/UnitTests/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll

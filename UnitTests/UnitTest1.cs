@@ -1,3 +1,5 @@
+using Moq;
+
 namespace UnitTests;
 
 public class Tests
@@ -51,16 +53,18 @@ public class Tests
     public void OpenReservationMustToBeWorking()
     {
         //Assert
+        var mockClinica = new Mock<Clinica>("Clínica Veterinaria", "Avenida Central 456", "987654321");
+        var mockDueno = new Mock<Dueno>("Juan", "Pérez", "123456789", "Calle Principal 123");
+        var mockMascota = new Mock<Mascota>("Firulais", "Perro", "Labrador", 5, mockDueno.Object, mockClinica.Object);
         DateTime date = new DateTime(2025, 4, 29, 14, 10, 20);
-        Clinica clinica = new Clinica("Clínica Veterinaria", "Avenida Central 456", "987654321");
-        Dueno dueno = new Dueno("Juan", "Pérez", "123456789", "Calle Principal 123");
-        Mascota mascota = new Mascota("Firulais", "Perro", "Labrador", 5, dueno, clinica);
-        Cita cita = new Cita(mascota, date, "Vacuna anual");
-        //Act
+        var cita = new Cita(mockMascota.Object, date, "Vacuna anual");
+
+        // Act
         cita.Reservar(DateTime.Now);
         cita.Cancelar(DateTime.Now);
         cita.Cerrar(DateTime.Now);
-        //Assert
+
+        // Assert
         Assert.AreEqual("Cerrada", cita.Estado);
     }
 }
